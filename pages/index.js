@@ -1,6 +1,5 @@
 import Head from 'next/head';
-import Layout from './layout';
-import SearchInput from './SearchInput';
+import Layout from './components/layout';
 
 export default function Home() { 
     return ( 
@@ -10,7 +9,6 @@ export default function Home() {
                 <Head> 
                     <title>Home</title>
                 </Head>
-
                 <div className="home-text">
                     <h1 className = "title">Home Page</h1>
                 </div>
