@@ -1,0 +1,470 @@
+[
+    {
+        "id": "artifacts",
+        "name": "Adventurer",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/adventurer.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_3.png",
+        "two_piece": "Max HP increased by 1,000.",
+        "four_piece": "Opening chest regenerates 30% Max HP over 5s.",
+        "tags": [
+            "artifacts",
+            "Adventurer"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Archaic Petra",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/archaic_petra.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "two_piece": "Gain a 15% Geo DMG Bonus.",
+        "four_piece": "Upon obtaining an Elemental Shard created through a Crystallize Reaction, all party members gain a 35% DMG Bonus for that particular element for 10s. Only one form of Elemental DMG Bonus can be gained in this manner at any one time.",
+        "tags": [
+            "artifacts",
+            "Archaic Petra"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Berserker",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/berserker.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "two_piece": "CRIT Rate +12%",
+        "four_piece": "When HP is below 70%, CRIT Rate increases by an additional 24%.",
+        "tags": [
+            "artifacts",
+            "Berserker"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Blizzard Strayer",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/blizzard_strayer.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "two_piece": "Cryo DMG Bonus +15%",
+        "four_piece": "When a character attacks an enemy affected by Cryo, their CRIT Rate is increased by 20%. If the enemy is Frozen, CRIT Rate is increased by an additional 20%.",
+        "tags": [
+            "artifacts",
+            "Blizzard Strayer"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Bloodstained Chivalry",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/bloodstained_chivalry.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "two_piece": "Physical DMG +25%",
+        "four_piece": "After defeating an opponent, increases Charged Attack DMG by 50%, and reduces its Stamina cost to 0 for 10s.",
+        "tags": [
+            "artifacts",
+            "Bloodstained Chivalry"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Brave Heart",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/brave_heart.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "two_piece": "ATK +18%",
+        "four_piece": "Increases DMG by 30% against enemies with more than 50% HP.",
+        "tags": [
+            "artifacts",
+            "Brave Heart"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Crimson Witch of Flames",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "two_piece": "Pyro DMG Bonus +15%",
+        "four_piece": "Increases Overloaded and Burning DMG by 40%. Increases Vaporize and Melt DMG by 15%. Using an Elemental Skill increases 2-Piece Set effects by 50% for 10s. Max 3 stacks.",
+        "tags": [
+            "artifacts",
+            "Crimson Witch of Flames"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Deepwood Memories",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/deepwood_memories.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "two_piece": "Dendro DMG Bonus +15%",
+        "four_piece": "After Elemental Skills or Bursts hit opponents, the targets' Dendro RES will be decreased by 30% for 8s. This effect can be triggered even if the equipping character is not on the field.",
+        "tags": [
+            "artifacts",
+            "Deepwood Memories"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Defender's Will",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/defender's_will.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "two_piece": "Base DEF +30%",
+        "four_piece": "Increases Elemental RES by 30% for each element present in the party.",
+        "tags": [
+            "artifacts",
+            "Defender's Will"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Desert Pavilion Chronicle",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/desert_pavilion_chronicle.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "two_piece": "Anemo DMG Bonus +15%.",
+        "four_piece": "When Charged Attacks hit opponents, the equipping character's Normal Attack SPD will increase by 10% while Normal, Charged, and Plunging Attack DMG will increase by 40% for 15s.",
+        "tags": [
+            "artifacts",
+            "Desert Pavilion Chronicle"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Echoes of an Offering",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/echoes_of_an_offering.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "two_piece": "ATK +18%",
+        "four_piece": "When Normal Attacks hit opponents, there is a 36% chance that it will trigger Valley Rite, which will increase Normal Attack DMG by 70% of ATK. This effect will be dispelled 0.05s after a Normal Attack deals DMG. If a Normal Attack fails to trigger Valley Rite, the odds of it triggering the next time will increase by 20%. This trigger can occur once every 0.2s.",
+        "tags": [
+            "artifacts",
+            "Echoes of an Offering"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Emblem of Severed Fate",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "two_piece": "Energy Recharge +20%",
+        "four_piece": "Increases Elemental Burst DMG by 25% of Energy Recharge. A maximum of 75% bonus DMG can be obtained in this way.",
+        "tags": [
+            "artifacts",
+            "Emblem of Severed Fate"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Flower of Paradise Lost",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/flower_of_paradise_lost.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "two_piece": "Increases Elemental Mastery by 80.",
+        "four_piece": "The equipping character's Bloom, Hyperbloom, and Burgeon reaction DMG are increased by 40%. Additionally, after the equipping character triggers Bloom, Hyperbloom, or Burgeon, they will gain another 25% bonus to the effect mentioned prior. Each stack of this lasts 10s. Max 4 stacks simultaneously. This effect can only be triggered once per second. The character who equips this can still trigger its effects when not on the field.",
+        "tags": [
+            "artifacts",
+            "Flower of Paradise Lost"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Gambler",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/gambler.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "two_piece": "Elemental Skill DMG increased by 20%",
+        "four_piece": "Defeating an enemy has 100% chance to remove Elemental Skill CD. Can only occur once every 15s.",
+        "tags": [
+            "artifacts",
+            "Gambler"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Gladiator's Finale",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "two_piece": "ATK +18%",
+        "four_piece": "If the wielder of this artifact set uses a Sword, Claymore or Polearm, increases their Normal Attack DMG by 35%.",
+        "tags": [
+            "artifacts",
+            "Gladiator's Finale"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Gilded Dreams",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "two_piece": "Elemental Mastery +80",
+        "four_piece": "Within 8s of triggering an Elemental Reaction, the character equipping this will obtain buffs based on the Elemental Type of the other party members, ATK is increased by 14% for each party member whose Elemental Type is the same as the equipping character, and Elemental Mastery is increased by 50 for every party member with a different Elemental Type. Each of the aforementioned buffs will count up to 3 characters. This effect can be triggered once every 8s. The character who equips this can still trigger its effects when not on the field.",
+        "tags": [
+            "artifacts",
+            "Gilded Dreams"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Heart of Depth",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/heart_of_depth.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "two_piece": "Hydro DMG Bonus +15%",
+        "four_piece": "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 30% for 15s.",
+        "tags": [
+            "artifacts",
+            "Heart of Depth"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Husk of Opulent Dreams",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/husk_of_opulent_dreams.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "two_piece": "DEF +30%",
+        "four_piece": "A character equipped with this Artifact set will obtain the Curiosity effect in the following conditions: When on the field, the character gains 1 stack after hitting an opponent with a Geo attack, triggering a maximum of once every 0.3s. When off the field, the character gains 1 stack every 3s. Curiosity can stack up to 4 times, each providing 6% DEF and a 6% Geo DMG Bonus. When 6 seconds pass without gaining a Curiosity stack, 1 stack is lost.",
+        "tags": [
+            "artifacts",
+            "Husk of Opulent Dreams"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Instructor",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/instructor.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "two_piece": "Increases Elemental Mastery by 80.",
+        "four_piece": "After using Elemental Skill, increases all party members' Elemental Mastery by 120 for 8s.",
+        "tags": [
+            "artifacts",
+            "Instructor"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Lavawalker",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/lavawalker.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "two_piece": "Pyro RES increased by 40%",
+        "four_piece": "Increases DMG against enemies that are Burning or affected by Pyro by 35%.",
+        "tags": [
+            "artifacts",
+            "Lavawalker"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Lucky Dog",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/lucky_dog.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_3.png",
+        "two_piece": "DEF increased by 100.",
+        "four_piece": "Picking up Mora restores 300 HP.",
+        "tags": [
+            "artifacts",
+            "Lucky Dog"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Maiden Beloved",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/maiden_beloved.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "two_piece": "Character Healing Effectiveness +15%",
+        "four_piece": "Using an Elemental Skill or Burst increases healing received by all party members by 20% for 10s.",
+        "tags": [
+            "artifacts",
+            "Maiden Beloved"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Martial Artist",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/martial_artist.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "two_piece": "Increases Normal Attack and Charged Attack DMG by 15%.",
+        "four_piece": "After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 25% for 8s.",
+        "tags": [
+            "artifacts",
+            "Martial Artist"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Noblesse Oblige",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "two_piece": "Elemental Burst DMG +20%",
+        "four_piece": "Using an Elemental Burst increase all party members' ATK by 20% for 12s. This effect cannot stack.",
+        "tags": [
+            "artifacts",
+            "Noblesse Oblige"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Ocean-Hued Clam",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/ocean-hued_clam.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "two_piece": "Healing Bonus +15%",
+        "four_piece": "When the character equipping this artifact set heals a character in the party, a Sea-Dyed Foam will appear for 3 seconds, accumulating the amount of HP recovered from healing (including overflow healing). At the end of the duration, the Sea-Dyed Foam will explode, dealing DMG to nearby opponents based on 90% of the accumulated healing. (This DMG is calculated similarly to Reactions such as Electro-Charged, and Superconduct, but it is not affected by Elemental Mastery, Character Levels, or Reaction DMG Bonuses). Only one Sea-Dyed Foam can be produced every 3.5 seconds. Each Sea-Dyed Foam can accumulate up to 30,000 HP (including overflow healing). There can be no more than one Sea-Dyed Foam active at any given time. This effect can still be triggered even when the character who is using this artifact set is not on the field.",
+        "tags": [
+            "artifacts",
+            "Ocean-Hued Clam"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Pale Flame",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/pale_flame.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "two_piece": "Physical DMG +25%",
+        "four_piece": "When an Elemental Skill hits an opponent, ATK is increased by 9% for 7s. This effect stacks up to 2 times and can be triggered once every 0.3s. Once 2 stacks are reached, the 2-set effect is increased by 100%.",
+        "tags": [
+            "artifacts",
+            "Pale Flame"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Resolution of Sojourner",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/resolution_of_sojourner.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "two_piece": "ATK +18%",
+        "four_piece": "Increases Charged Attack CRIT Rate by 30%.",
+        "tags": [
+            "artifacts",
+            "Resolution of Sojourner"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Retracing Bolide",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/retracing_bolide.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "two_piece": "Increases Shield Strength by 35%.",
+        "four_piece": "While protected by a shield, gain an additional 40% Normal and Charged Attack DMG.",
+        "tags": [
+            "artifacts",
+            "Retracing Bolide"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Scholar",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/scholar.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "two_piece": "Energy Recharge +20%",
+        "four_piece": "Gaining Energy gives 3 Energy to all party members who have a bow or a catalyst equipped. Can only occurs once every 3s.",
+        "tags": [
+            "artifacts",
+            "Scholar"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Shimenawa's Reminiscence",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "two_piece": "ATK +18%",
+        "four_piece": "When casting an Elemental Skill, if the character has 15 or more Energy, they lose 15 Energy and Normal/Charged/Plunging Attack DMG is increased by 50% for 10s.",
+        "tags": [
+            "artifacts",
+            "Shimenawa's Reminiscence"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Tenacity of the Millelith",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "two_piece": "HP +20%",
+        "four_piece": "When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field.",
+        "tags": [
+            "artifacts",
+            "Tenacity of the Millelith"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "The Exile",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/the_exile.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "two_piece": "Energy Recharge +20%",
+        "four_piece": "Using an Elemental Burst regenerates 2 Energy for other party members every 2s for 6s. This effect cannot stack.",
+        "tags": [
+            "artifacts",
+            "The Exile"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Thundering Fury",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "two_piece": "Gain a 15% Electro DMG Bonus.",
+        "four_piece": "Increases DMG caused by Overloaded, Electro-Charged, Superconduct, and Hyperbloom by 40%, and the DMG Bonus conferred by Aggravate is increased by 20%. When Quicken or the aforementioned Elemental Reactions are triggered, Elemental Skill CD is decreased by 1s. Can only occur once every 0.8s.",
+        "tags": [
+            "artifacts",
+            "Thundering Fury"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Thundersoother",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/thundersoother.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "two_piece": "Electro RES increased by 40%",
+        "four_piece": "Increases DMG against enemies affected by Electro by 35%.",
+        "tags": [
+            "artifacts",
+            "Thundersoother"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Tiny Miracle",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/tiny_miracle.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "two_piece": "All Elemental RES increased by 20%",
+        "four_piece": "Incoming elemental DMG increases corresponding Elemental RES by 30% for 10s. Can only occur once every 10s.",
+        "tags": [
+            "artifacts",
+            "Tiny Miracle"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Traveling Doctor",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/traveling_doctor.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_3.png",
+        "two_piece": "Increases incoming healing by 20%.",
+        "four_piece": "Using Elemental Burst restores 20% HP.",
+        "tags": [
+            "artifacts",
+            "Traveling Doctor"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Vermillion Hereafter",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/vermillion_hereafter.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "two_piece": "ATK +18%",
+        "four_piece": "After using an Elemental Burst. this character will gain the Nascent Light effect, increasing their ATK by 8% for 16s. When the character's HP decreases, their ATK will further increase by 10%. This increase can occur this way maximum of 4 times. This effect can be triggered once every 0.8s. Nascent Light will be dispelled when the character leaves the field. If an Elemental Burst is used again during the duration of Nascent Light, the original Nascent Light will be dispelled.",
+        "tags": [
+            "artifacts",
+            "Vermillion Hereafter"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Viridescent Venerer",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/viridescent_venerer.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "two_piece": "Gain a 15% Anemo DMG Bonus.",
+        "four_piece": "Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s.",
+        "tags": [
+            "artifacts",
+            "Viridescent Venerer"
+        ]
+    },
+    {
+        "id": "artifacts",
+        "name": "Wanderer's Troupe",
+        "pic": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "two_piece": "Elemental Mastery +80",
+        "four_piece": "Increases Charged Attack DMG by 35% if the character uses a Catalyst or Bow.",
+        "tags": [
+            "artifacts",
+            "Wanderer's Troupe"
+        ]
+    }
+]

@@ -1,0 +1,2004 @@
+[
+    {
+        "id": "weapons",
+        "name": "A Thousand Floating Dreams",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/A_Thousand_Floating_Dreams.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_catalyst.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "542",
+        "secondary": "Elemental Mastery",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "A Thousand Floating Dreams"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Akuoumaru",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Akuoumaru.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_claymore.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "ATK",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Akuoumaru"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Alley Hunter",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Alley_Hunter.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_bow.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "565",
+        "secondary": "CRIT Rate",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Alley Hunter"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Amenoma Kageuchi",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Amenoma_Kageuchi.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_sword.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "454",
+        "secondary": "ATK",
+        "drop": "Crafting",
+        "tags": [
+            "weapon",
+            "Amenoma Kageuchi"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Amos' Bow",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Amos'_Bow.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_bow.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "608",
+        "secondary": "ATK",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Amos' Bow"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Aqua Simulacra",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Aqua_Simulacra.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_bow.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "542",
+        "secondary": "CRIT DMG",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Aqua Simulacra"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Aquila Favonia",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Aquila_Favonia.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_sword.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "674",
+        "secondary": "Physical DMG Bonus",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Aquila Favonia"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Beacon of the Reed Sea",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Beacon_of_the_Reed_Sea.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_claymore.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "608",
+        "secondary": "CRIT Rate",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Beacon of the Reed Sea"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Black Tassel",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Black_Tassel.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_polearm.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_3.png",
+        "atk": "354",
+        "secondary": "HP",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Black Tassel"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Blackcliff Agate",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Blackcliff_Agate.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_catalyst.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "CRIT DMG",
+        "drop": "Starglitter Exchange",
+        "tags": [
+            "weapon",
+            "Blackcliff Agate"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Blackcliff Longsword",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Blackcliff_Longsword.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_sword.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "565",
+        "secondary": "CRIT DMG",
+        "drop": "Starglitter Exchange",
+        "tags": [
+            "weapon",
+            "Blackcliff Longsword"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Blackcliff Pole",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Blackcliff_Pole.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_polearm.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "CRIT DMG",
+        "drop": "Starglitter Exchange",
+        "tags": [
+            "weapon",
+            "Blackcliff Pole"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Blackcliff Slasher",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Blackcliff_Slasher.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_claymore.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "CRIT DMG",
+        "drop": "Starglitter Exchange",
+        "tags": [
+            "weapon",
+            "Blackcliff Slasher"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Blackcliff Warbow",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Blackcliff_Warbow.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_bow.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "565",
+        "secondary": "CRIT DMG",
+        "drop": "Starglitter Exchange",
+        "tags": [
+            "weapon",
+            "Blackcliff Warbow"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Bloodtainted Greatsword",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Bloodtainted_Greatsword.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_claymore.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_3.png",
+        "atk": "354",
+        "secondary": "Elemental Mastery",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Bloodtainted Greatsword"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Calamity Queller",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Calamity_Queller.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_polearm.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "741",
+        "secondary": "ATK",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Calamity Queller"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Cinnabar Spindle",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Cinnabar_Spindle.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_sword.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "454",
+        "secondary": "DEF",
+        "drop": "Event",
+        "tags": [
+            "weapon",
+            "Cinnabar Spindle"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Compound Bow",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Compound_Bow.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_bow.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "454",
+        "secondary": "Physical DMG Bonus",
+        "drop": "Crafting",
+        "tags": [
+            "weapon",
+            "Compound Bow"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Cool Steel",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Cool_Steel.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_sword.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_3.png",
+        "atk": "401",
+        "secondary": "ATK",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Cool Steel"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Crescent Pike",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Crescent_Pike.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_polearm.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "565",
+        "secondary": "Physical DMG Bonus",
+        "drop": "Crafting",
+        "tags": [
+            "weapon",
+            "Crescent Pike"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Dark Iron Sword",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Dark_Iron_Sword.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_sword.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_3.png",
+        "atk": "401",
+        "secondary": "Elemental Mastery",
+        "drop": "Vendor",
+        "tags": [
+            "weapon",
+            "Dark Iron Sword"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Deathmatch",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Deathmatch.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_polearm.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "454",
+        "secondary": "CRIT Rate",
+        "drop": "BP Bounty",
+        "tags": [
+            "weapon",
+            "Deathmatch"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Debate Club",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Debate_Club.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_claymore.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_3.png",
+        "atk": "401",
+        "secondary": "ATK",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Debate Club"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Dodoco Tales",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Dodoco_Tales.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_catalyst.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "454",
+        "secondary": "ATK",
+        "drop": "Event",
+        "tags": [
+            "weapon",
+            "Dodoco Tales"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Dragon's Bane",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Dragon's_Bane.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_polearm.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "454",
+        "secondary": "Elemental Mastery",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Dragon's Bane"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Dragonspine Spear",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Dragonspine_Spear.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_polearm.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "454",
+        "secondary": "Physical DMG Bonus",
+        "drop": "Crafting",
+        "tags": [
+            "weapon",
+            "Dragonspine Spear"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Elegy for the End",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Elegy_for_the_End.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_bow.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "608",
+        "secondary": "Energy Recharge",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Elegy for the End"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Emerald Orb",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Emerald_Orb.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_catalyst.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_3.png",
+        "atk": "448",
+        "secondary": "Elemental Mastery",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Emerald Orb"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "End of the Line",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/End_of_the_Line.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_bow.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "Energy Recharge",
+        "drop": "Sumeru Fishing Association",
+        "tags": [
+            "weapon",
+            "End of the Line"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Engulfing Lightning",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Engulfing_Lightning.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_polearm.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "608",
+        "secondary": "Energy Recharge",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Engulfing Lightning"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Everlasting Moonglow",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Everlasting_Moonglow.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_catalyst.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "608",
+        "secondary": "HP",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Everlasting Moonglow"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Eye of Perception",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Eye_of_Perception.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_catalyst.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "454",
+        "secondary": "ATK",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Eye of Perception"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Fading Twilight",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Fading_Twilight.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_bow.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "565",
+        "secondary": "Energy Recharge",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Fading Twilight"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Favonius Codex",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Codex.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_catalyst.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "Energy Recharge",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Favonius Codex"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Favonius Greatsword",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Greatsword.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_claymore.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "454",
+        "secondary": "Energy Recharge",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Favonius Greatsword"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Favonius Lance",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Lance.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_polearm.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "565",
+        "secondary": "Energy Recharge",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Favonius Lance"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Favonius Sword",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Sword.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_sword.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "454",
+        "secondary": "Energy Recharge",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Favonius Sword"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Favonius Warbow",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Warbow.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_bow.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "454",
+        "secondary": "Energy Recharge",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Favonius Warbow"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Ferrous Shadow",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Ferrous_Shadow.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_claymore.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_3.png",
+        "atk": "401",
+        "secondary": "HP",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Ferrous Shadow"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Festering Desire",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Festering_Desire.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_sword.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "Energy Recharge",
+        "drop": "Event",
+        "tags": [
+            "weapon",
+            "Festering Desire"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Fillet Blade",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Fillet_Blade.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_sword.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_3.png",
+        "atk": "401",
+        "secondary": "ATK",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Fillet Blade"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Forest Regalia",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Forest_Regalia.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_claymore.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "565",
+        "secondary": "Energy Recharge",
+        "drop": "Crafting",
+        "tags": [
+            "weapon",
+            "Forest Regalia"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Freedom-Sworn",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Freedom-Sworn.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_sword.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "608",
+        "secondary": "Elemental Mastery",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Freedom-Sworn"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Frostbearer",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Frostbearer.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_catalyst.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "ATK",
+        "drop": "Crafting",
+        "tags": [
+            "weapon",
+            "Frostbearer"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Fruit of Fulfillment",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Fruit_of_Fulfillment.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_catalyst.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "Energy Recharge",
+        "drop": "Crafting",
+        "tags": [
+            "weapon",
+            "Fruit of Fulfillment"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Hakushin Ring",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Hakushin_Ring.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_catalyst.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "565",
+        "secondary": "Energy Recharge",
+        "drop": "Crafting",
+        "tags": [
+            "weapon",
+            "Hakushin Ring"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Halberd",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Halberd.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_polearm.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_3.png",
+        "atk": "448",
+        "secondary": "ATK",
+        "drop": "Chest",
+        "tags": [
+            "weapon",
+            "Halberd"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Hamayumi",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Hamayumi.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_bow.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "454",
+        "secondary": "ATK",
+        "drop": "Crafting",
+        "tags": [
+            "weapon",
+            "Hamayumi"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Haran Geppaku Futsu",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Haran_Geppaku_Futsu.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_sword.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "608",
+        "secondary": "CRIT Rate",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Haran Geppaku Futsu"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Harbinger of Dawn",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Harbinger_of_Dawn.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_sword.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_3.png",
+        "atk": "401",
+        "secondary": "CRIT DMG",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Harbinger of Dawn"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Hunter's Path",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Hunter's_Path.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_bow.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "542",
+        "secondary": "CRIT Rate",
+        "drop": "Chest",
+        "tags": [
+            "weapon",
+            "Hunter's Path"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Iron Sting",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Iron_Sting.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_sword.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "Elemental Mastery",
+        "drop": "Crafting",
+        "tags": [
+            "weapon",
+            "Iron Sting"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Jadefall's Splendor",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Jadefall's_Splendor.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_catalyst.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "608",
+        "secondary": "HP",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Jadefall's Splendor"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Kagotsurube Isshin",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Kagotsurube_Isshin.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_sword.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "ATK",
+        "drop": "Quest Reward",
+        "tags": [
+            "weapon",
+            "Kagotsurube Isshin"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Kagura's Verity",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Kagura's_Verity.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_catalyst.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "608",
+        "secondary": "CRIT DMG",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Kagura's Verity"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Katsuragikiri Nagamasa",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Katsuragikiri_Nagamasa.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_claymore.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "Energy Recharge",
+        "drop": "Crafting",
+        "tags": [
+            "weapon",
+            "Katsuragikiri Nagamasa"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Key of Khaj-Nisut",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Key_of_Khaj-Nisut.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_sword.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "542",
+        "secondary": "HP",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Key of Khaj-Nisut"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "King's Squire",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/King's_Squire.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_bow.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "454",
+        "secondary": "ATK",
+        "drop": "Crafting",
+        "tags": [
+            "weapon",
+            "King's Squire"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Kitain Cross Spear",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Kitain_Cross_Spear.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_polearm.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "565",
+        "secondary": "Elemental Mastery",
+        "drop": "Crafting",
+        "tags": [
+            "weapon",
+            "Kitain Cross Spear"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Light of Foliar Incision",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Light_of_Foliar_Incision.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_sword.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "542",
+        "secondary": "CRIT DMG",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Light of Foliar Incision"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Lion's Roar",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Lion's_Roar.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_sword.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "ATK",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Lion's Roar"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Lithic Blade",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Lithic_Blade.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_claymore.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "ATK",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Lithic Blade"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Lithic Spear",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Lithic_Spear.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_polearm.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "565",
+        "secondary": "ATK",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Lithic Spear"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Lost Prayer to the Sacred Winds",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Lost_Prayer_to_the_Sacred_Winds.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_catalyst.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "608",
+        "secondary": "CRIT Rate",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Lost Prayer to the Sacred Winds"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Luxurious Sea-Lord",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Luxurious_Sea-Lord.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_claymore.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "454",
+        "secondary": "ATK",
+        "drop": "Event",
+        "tags": [
+            "weapon",
+            "Luxurious Sea-Lord"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Magic Guide",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Magic_Guide.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_catalyst.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_3.png",
+        "atk": "354",
+        "secondary": "Elemental Mastery",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Magic Guide"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Makhaira Aquamarine",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Makhaira_Aquamarine.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_claymore.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "Elemental Mastery",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Makhaira Aquamarine"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Mappa Mare",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Mappa_Mare.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_catalyst.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "565",
+        "secondary": "Elemental Mastery",
+        "drop": "Crafting",
+        "tags": [
+            "weapon",
+            "Mappa Mare"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Memory of Dust",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Memory_of_Dust.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_catalyst.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "608",
+        "secondary": "ATK",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Memory of Dust"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Messenger",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Messenger.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_bow.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_3.png",
+        "atk": "448",
+        "secondary": "CRIT DMG",
+        "drop": "Chest",
+        "tags": [
+            "weapon",
+            "Messenger"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Missive Windspear",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Missive_Windspear.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_polearm.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "ATK",
+        "drop": "Event",
+        "tags": [
+            "weapon",
+            "Missive Windspear"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Mistsplitter Reforged",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Mistsplitter_Reforged.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_sword.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "674",
+        "secondary": "CRIT DMG",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Mistsplitter Reforged"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Mitternachts Waltz",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Mitternachts_Waltz.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_bow.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "Physical DMG Bonus",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Mitternachts Waltz"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Moonpiercer",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Moonpiercer.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_polearm.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "565",
+        "secondary": "Elemental Mastery",
+        "drop": "Crafting",
+        "tags": [
+            "weapon",
+            "Moonpiercer"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Mouun's Moon",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Mouun's_Moon.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_bow.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "565",
+        "secondary": "ATK",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Mouun's Moon"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Oathsworn Eye",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Oathsworn_Eye.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_catalyst.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "565",
+        "secondary": "ATK",
+        "drop": "Event",
+        "tags": [
+            "weapon",
+            "Oathsworn Eye"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Otherworldly Story",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Otherworldly_Story.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_catalyst.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_3.png",
+        "atk": "401",
+        "secondary": "Energy Recharge",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Otherworldly Story"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Polar Star",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Polar_Star.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_bow.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "608",
+        "secondary": "CRIT Rate",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Polar Star"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Predator",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Predator.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_bow.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "ATK",
+        "drop": "Event",
+        "tags": [
+            "weapon",
+            "Predator"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Primordial Jade Cutter",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Cutter.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_sword.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "542",
+        "secondary": "CRIT Rate",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Primordial Jade Cutter"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Primordial Jade Winged-Spear",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Winged-Spear.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_polearm.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "674",
+        "secondary": "CRIT Rate",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Primordial Jade Winged-Spear"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Prototype Amber",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Prototype_Amber.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_catalyst.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "HP",
+        "drop": "Crafting",
+        "tags": [
+            "weapon",
+            "Prototype Amber"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Prototype Archaic",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Prototype_Archaic.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_claymore.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "565",
+        "secondary": "ATK",
+        "drop": "Crafting",
+        "tags": [
+            "weapon",
+            "Prototype Archaic"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Prototype Crescent",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Prototype_Crescent.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_bow.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "ATK",
+        "drop": "Crafting",
+        "tags": [
+            "weapon",
+            "Prototype Crescent"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Prototype Rancour",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Prototype_Rancour.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_sword.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "565",
+        "secondary": "Physical DMG Bonus",
+        "drop": "Crafting",
+        "tags": [
+            "weapon",
+            "Prototype Rancour"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Prototype Starglitter",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Prototype_Starglitter.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_polearm.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "Energy Recharge",
+        "drop": "Crafting",
+        "tags": [
+            "weapon",
+            "Prototype Starglitter"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Rainslasher",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Rainslasher.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_claymore.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "Elemental Mastery",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Rainslasher"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Raven Bow",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Raven_Bow.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_bow.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_3.png",
+        "atk": "448",
+        "secondary": "Elemental Mastery",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Raven Bow"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Recurve Bow",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Recurve_Bow.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_bow.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_3.png",
+        "atk": "354",
+        "secondary": "HP",
+        "drop": "Chest",
+        "tags": [
+            "weapon",
+            "Recurve Bow"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Redhorn Stonethresher",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Redhorn_Stonethresher.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_claymore.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "542",
+        "secondary": "CRIT DMG",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Redhorn Stonethresher"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Royal Bow",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Royal_Bow.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_bow.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "ATK",
+        "drop": "Starglitter Exchange",
+        "tags": [
+            "weapon",
+            "Royal Bow"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Royal Greatsword",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Royal_Greatsword.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_claymore.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "565",
+        "secondary": "ATK",
+        "drop": "Starglitter Exchange",
+        "tags": [
+            "weapon",
+            "Royal Greatsword"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Royal Grimoire",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Royal_Grimoire.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_catalyst.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "565",
+        "secondary": "ATK",
+        "drop": "Starglitter Exchange",
+        "tags": [
+            "weapon",
+            "Royal Grimoire"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Royal Longsword",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Royal_Longsword.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_sword.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "ATK",
+        "drop": "Starglitter Exchange",
+        "tags": [
+            "weapon",
+            "Royal Longsword"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Royal Spear",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Royal_Spear.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_polearm.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "565",
+        "secondary": "ATK",
+        "drop": "Starglitter Exchange",
+        "tags": [
+            "weapon",
+            "Royal Spear"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Rust",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Rust.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_bow.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "ATK",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Rust"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Sacrificial Bow",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Bow.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_bow.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "565",
+        "secondary": "Energy Recharge",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Sacrificial Bow"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Sacrificial Fragments",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Fragments.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_catalyst.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "454",
+        "secondary": "Elemental Mastery",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Sacrificial Fragments"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Sacrificial Greatsword",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Greatsword.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_claymore.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "565",
+        "secondary": "Energy Recharge",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Sacrificial Greatsword"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Sacrificial Sword",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Sword.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_sword.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "454",
+        "secondary": "Energy Recharge",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Sacrificial Sword"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Sapwood Blade",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Sapwood_Blade.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_sword.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "565",
+        "secondary": "Energy Recharge",
+        "drop": "Crafting",
+        "tags": [
+            "weapon",
+            "Sapwood Blade"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Serpent Spine",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Serpent_Spine.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_claymore.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "CRIT Rate",
+        "drop": "BP Bounty",
+        "tags": [
+            "weapon",
+            "Serpent Spine"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Sharpshooter's Oath",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Sharpshooter's_Oath.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_bow.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_3.png",
+        "atk": "401",
+        "secondary": "CRIT DMG",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Sharpshooter's Oath"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Skyrider Greatsword",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Skyrider_Greatsword.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_claymore.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_3.png",
+        "atk": "401",
+        "secondary": "Physical DMG Bonus",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Skyrider Greatsword"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Skyrider Sword",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Skyrider_Sword.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_sword.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_3.png",
+        "atk": "354",
+        "secondary": "Energy Recharge",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Skyrider Sword"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Skyward Atlas",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Atlas.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_catalyst.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "674",
+        "secondary": "ATK",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Skyward Atlas"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Skyward Blade",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Blade.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_sword.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "608",
+        "secondary": "Energy Recharge",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Skyward Blade"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Skyward Harp",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Harp.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_bow.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "674",
+        "secondary": "CRIT Rate",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Skyward Harp"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Skyward Pride",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Pride.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_claymore.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "674",
+        "secondary": "Energy Recharge",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Skyward Pride"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Skyward Spine",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Spine.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_polearm.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "674",
+        "secondary": "Energy Recharge",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Skyward Spine"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Slingshot",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Slingshot.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_bow.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_3.png",
+        "atk": "354",
+        "secondary": "CRIT Rate",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Slingshot"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Snow-Tombed Starsilver",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Snow-Tombed_Starsilver.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_claymore.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "565",
+        "secondary": "Physical DMG Bonus",
+        "drop": "Crafting",
+        "tags": [
+            "weapon",
+            "Snow-Tombed Starsilver"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Solar Pearl",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Solar_Pearl.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_catalyst.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "CRIT Rate",
+        "drop": "BP Bounty",
+        "tags": [
+            "weapon",
+            "Solar Pearl"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Song of Broken Pines",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Song_of_Broken_Pines.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_claymore.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "741",
+        "secondary": "Physical DMG Bonus",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Song of Broken Pines"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Staff of Homa",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Staff_of_Homa.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_polearm.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "608",
+        "secondary": "CRIT DMG",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Staff of Homa"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Staff of the Scarlet Sands",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Staff_of_the_Scarlet_Sands.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_polearm.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "542",
+        "secondary": "CRIT Rate",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Staff of the Scarlet Sands"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Summit Shaper",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Summit_Shaper.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_sword.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "608",
+        "secondary": "ATK",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Summit Shaper"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Sword of Descension",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Sword_of_Descension.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_sword.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "440",
+        "secondary": "ATK",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Sword of Descension"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "The Alley Flash",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/The_Alley_Flash.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_sword.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "620",
+        "secondary": "Elemental Mastery",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "The Alley Flash"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "The Bell",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/The_Bell.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_claymore.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "HP",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "The Bell"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "The Black Sword",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/The_Black_Sword.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_sword.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "CRIT Rate",
+        "drop": "BP Bounty",
+        "tags": [
+            "weapon",
+            "The Black Sword"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "The Catch",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/The_Catch.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_polearm.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "Energy Recharge",
+        "drop": "Vendor",
+        "tags": [
+            "weapon",
+            "The Catch"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "The Flute",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/The_Flute.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_sword.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "ATK",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "The Flute"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "The Stringless",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/The_Stringless.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_bow.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "Elemental Mastery",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "The Stringless"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "The Unforged",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/The_Unforged.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_claymore.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "608",
+        "secondary": "ATK",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "The Unforged"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "The Viridescent Hunt",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/The_Viridescent_Hunt.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_bow.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "CRIT Rate",
+        "drop": "BP Bounty",
+        "tags": [
+            "weapon",
+            "The Viridescent Hunt"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "The Widsith",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/The_Widsith.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_catalyst.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "CRIT DMG",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "The Widsith"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Thrilling Tales of Dragon Slayers",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Thrilling_Tales_of_Dragon_Slayers.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_catalyst.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_3.png",
+        "atk": "401",
+        "secondary": "HP",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Thrilling Tales of Dragon Slayers"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Thundering Pulse",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Thundering_Pulse.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_bow.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "608",
+        "secondary": "CRIT DMG",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Thundering Pulse"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Toukabou Shigure",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Toukabou_Shigure.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_sword.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "Elemental Mastery",
+        "drop": "Event",
+        "tags": [
+            "weapon",
+            "Toukabou Shigure"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Traveler's Handy Sword",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Traveler's_Handy_Sword.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_sword.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_3.png",
+        "atk": "448",
+        "secondary": "DEF",
+        "drop": "Chest",
+        "tags": [
+            "weapon",
+            "Traveler's Handy Sword"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Tulaytullah's Remembrance",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Tulaytullah's_Remembrance.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_catalyst.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "674",
+        "secondary": "CRIT DMG",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Tulaytullah's Remembrance"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Twin Nephrite",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Twin_Nephrite.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_catalyst.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_3.png",
+        "atk": "448",
+        "secondary": "CRIT Rate",
+        "drop": "Chest",
+        "tags": [
+            "weapon",
+            "Twin Nephrite"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Vortex Vanquisher",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Vortex_Vanquisher.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_polearm.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "608",
+        "secondary": "ATK",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Vortex Vanquisher"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Wandering Evenstar",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Wandering_Evenstar.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_catalyst.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "Elemental Mastery",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Wandering Evenstar"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Wavebreaker's Fin",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Wavebreaker's_Fin.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_polearm.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "620",
+        "secondary": "Base ATK",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Wavebreaker's Fin"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "White Iron Greatsword",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/White_Iron_Greatsword.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_claymore.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_3.png",
+        "atk": "401",
+        "secondary": "DEF",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "White Iron Greatsword"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "White Tassel",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/White_Tassel.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_polearm.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_3.png",
+        "atk": "401",
+        "secondary": "CRIT Rate",
+        "drop": "Chest",
+        "tags": [
+            "weapon",
+            "White Tassel"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Whiteblind",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Whiteblind.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_claymore.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "DEF",
+        "drop": "Crafting",
+        "tags": [
+            "weapon",
+            "Whiteblind"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Windblume Ode",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Windblume_Ode.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_bow.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "Elemental Mastery",
+        "drop": "Invitation of Windblume Event",
+        "tags": [
+            "weapon",
+            "Windblume Ode"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Wine and Song",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Wine_and_Song.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_catalyst.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "565",
+        "secondary": "Energy Recharge",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Wine and Song"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Wolf's Gravestone",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Wolf's_Gravestone.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_claymore.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "atk": "608",
+        "secondary": "ATK",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Wolf's Gravestone"
+        ]
+    },
+    {
+        "id": "weapons",
+        "name": "Xiphos' Moonlight",
+        "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Xiphos'_Moonlight.png",
+        "type_img": "https://rerollcdn.com/GENSHIN/UI/weapon_sword.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "atk": "510",
+        "secondary": "Elemental Mastery",
+        "drop": "Wish",
+        "tags": [
+            "weapon",
+            "Xiphos' Moonlight"
+        ]
+    }
+]

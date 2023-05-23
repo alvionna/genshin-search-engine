@@ -1,0 +1,48 @@
+.eachResultItem {
+    display: flex; 
+    width: 100%;
+    background: rgba(224, 203, 190, 0.85);
+    border: 4px solid rgba(212, 162, 131, 0.8);
+    margin-bottom: 20px;
+    padding: 10px 8px;
+    transition: transform .2s;
+}
+
+.eachResultItem:hover { 
+    cursor: pointer;
+    transform:scale(1.02);
+}
+
+.resultName { 
+    margin-bottom: 0;
+}
+
+.eachResultDesc { 
+    margin-left: 20px;
+}
+
+.profilePic{ 
+    width: 9rem;
+    height: 9rem;
+    background: #fff;
+    transition: transform .2s;
+    border-radius: 2em;
+    border: 1px solid #000;
+}
+
+
+.rarityRow { 
+    display: flex;
+    align-items: center;
+}
+
+.rarityPic { 
+    width: 30px;
+    height: 30px;
+    margin-left: 5px;
+    
+}
+
+.linkStyle { 
+    margin: 0px;
+}

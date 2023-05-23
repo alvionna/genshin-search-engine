@@ -1,0 +1,68 @@
+.weaponList { 
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    justify-items: center;
+    margin: 30px 0;
+}
+
+.weaponCard { 
+    inline-size: 72%;
+    overflow-wrap: break-word;
+}
+
+.weaponItem{
+    display: grid;
+    background-color: rgba(255, 210, 201);
+    padding: 20px 20px 0px 20px;
+    border-radius: 2em;
+    transition: transform .2s;
+    margin-bottom: 20px;
+}
+
+.weaponItem:hover { 
+    cursor: pointer;
+    transform:scale(1.05);
+}
+
+.weaponPic { 
+    width: 250px;
+    height: 250px;
+    background-color: #fff;
+    border-radius: 2em;
+    border: 2px solid #000
+}
+
+.weaponName { 
+    justify-self: center;
+    padding: 3px 10px;
+    border-radius: 1rem;
+    font-size: 20px;
+    margin: 10px auto
+}
+
+.weaponStats { 
+    display: none;
+}
+
+.weaponCard:hover .weaponStats{ 
+    display: inline-block;
+    background-color: #e0cbbe;
+    padding: 10px 20px;
+    border-radius: 2em;
+    width: 100%;
+    border: 4px dashed hwb(23 34% 20%);
+}
+
+.weaponTypeRow, .weaponRarityRow { 
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+
+.weaponRarityPic, .weaponTypePic { 
+    width: 30px;
+    height: 30px;
+    padding: 0px;
+    margin-left: 6px;
+}

@@ -1,0 +1,2613 @@
+[
+    {
+        "id": "characters",
+        "name": "Albedo",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Albedo.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png",
+        "char_element_text": "Geo",
+        "char_role": "Sub DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Cinnabar_Spindle.png",
+            "weapon_name": "Cinnabar Spindle R5"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/husk_of_opulent_dreams.png"
+            ],
+            "artifacts_name": [
+                "Husk of Opulent Dreams"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: DEF%",
+            "goblet": "Goblet: Geo DMG",
+            "circlet": "Circlet: CRIT Rate / DMG / DEF%"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Albedo",
+            "Sub DPS",
+            "Geo"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Alhaitham",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Alhaitham.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png",
+        "char_element_text": "Dendro",
+        "char_role": "Main DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Light_of_Foliar_Incision.png",
+            "weapon_name": "Light of Foliar Incision"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png"
+            ],
+            "artifacts_name": [
+                "Gilded Dreams"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: EM / ATK%",
+            "goblet": "Goblet: Dendro DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Alhaitham",
+            "Main DPS",
+            "Dendro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Aloy",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png",
+        "char_element_text": "Cryo",
+        "char_role": "Sub DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Thundering_Pulse.png",
+            "weapon_name": "Thundering Pulse"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+            ],
+            "artifacts_name": [
+                "Noblesse Oblige"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ATK% / EM",
+            "goblet": "Goblet: Cryo DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Aloy",
+            "Sub DPS",
+            "Cryo"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Amber",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png",
+        "char_element_text": "Pyro",
+        "char_role": "Sub DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Elegy_for_the_End.png",
+            "weapon_name": "Elegy for the End"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+            ],
+            "artifacts_name": [
+                "Noblesse Oblige"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ER",
+            "goblet": "Goblet: Pyro DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Amber",
+            "Sub DPS",
+            "Pyro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Ayaka",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Ayaka.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png",
+        "char_element_text": "Cryo",
+        "char_role": "Main DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Mistsplitter_Reforged.png",
+            "weapon_name": "Mistsplitter Reforged"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/blizzard_strayer.png"
+            ],
+            "artifacts_name": [
+                "Blizzard Strayer"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ATK%",
+            "goblet": "Goblet: Cryo DMG",
+            "circlet": "Circlet: CRIT DMG / ATK%"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Ayaka",
+            "Main DPS",
+            "Cryo"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Ayato",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Ayato.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png",
+        "char_element_text": "Hydro",
+        "char_role": "Main DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Haran_Geppaku_Futsu.png",
+            "weapon_name": "Haran Geppaku Futsu"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/heart_of_depth.png"
+            ],
+            "artifacts_name": [
+                "Heart of Depth"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ATK%",
+            "goblet": "Goblet: Hydro DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Ayato",
+            "Main DPS",
+            "Hydro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Baizhu",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Baizhu.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png",
+        "char_element_text": "Dendro",
+        "char_role": "Support",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Jadefall's_Splendor.png",
+            "weapon_name": "Jadefall's Splendor"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/deepwood_memories.png"
+            ],
+            "artifacts_name": [
+                "Deepwood Memories"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: HP% / ER",
+            "goblet": "Goblet: HP%",
+            "circlet": "Circlet: HP"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Baizhu",
+            "Support",
+            "Dendro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Barbara",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png",
+        "char_element_text": "Hydro",
+        "char_role": "Support",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Thrilling_Tales_of_Dragon_Slayers.png",
+            "weapon_name": "Thrilling Tales of Dragon Slayers"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/maiden_beloved.png"
+            ],
+            "artifacts_name": [
+                "Maiden Beloved"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: HP%",
+            "goblet": "Goblet: HP%",
+            "circlet": "Circlet: Healing"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Barbara",
+            "Support",
+            "Hydro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Beidou",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Beidou.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png",
+        "char_element_text": "Electro",
+        "char_role": "Sub DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Wolf's_Gravestone.png",
+            "weapon_name": "Wolf's Gravestone"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+            ],
+            "artifacts_name": [
+                "Emblem of Severed Fate"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ATK% / ER",
+            "goblet": "Goblet: Electro DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Beidou",
+            "Sub DPS",
+            "Electro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Bennett",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Bennett.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png",
+        "char_element_text": "Pyro",
+        "char_role": "Support",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Mistsplitter_Reforged.png",
+            "weapon_name": "Mistsplitter Reforged"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+            ],
+            "artifacts_name": [
+                "Noblesse Oblige"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ATK% / ER",
+            "goblet": "Goblet: Pyro DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Bennett",
+            "Support",
+            "Pyro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Candace",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png",
+        "char_element_text": "Hydro",
+        "char_role": "Support",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Lance.png",
+            "weapon_name": "Favonius Lance"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+            ],
+            "artifacts_name": [
+                "Noblesse Oblige"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ER / HP%",
+            "goblet": "Goblet: HP%",
+            "circlet": "Circlet: HP%"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Candace",
+            "Support",
+            "Hydro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Childe",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png",
+        "char_element_text": "Hydro",
+        "char_role": "Main DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Polar_Star.png",
+            "weapon_name": "Polar Star"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/heart_of_depth.png"
+            ],
+            "artifacts_name": [
+                "Heart of Depth"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ATK%",
+            "goblet": "Goblet: Hydro DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Childe",
+            "Main DPS",
+            "Hydro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Chongyun",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Chongyun.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png",
+        "char_element_text": "Cryo",
+        "char_role": "Support",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Wolf's_Gravestone.png",
+            "weapon_name": "Wolf's Gravestone"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/blizzard_strayer.png",
+                "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+            ],
+            "artifacts_name": [
+                "Blizzard Strayer",
+                "Noblesse Oblige"
+            ],
+            "artifacts_count": [
+                "2",
+                "2"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ATK% / ER / EM",
+            "goblet": "Goblet: Cryo DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Chongyun",
+            "Support",
+            "Cryo"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Collei",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Collei.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png",
+        "char_element_text": "Dendro",
+        "char_role": "Support",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Elegy_for_the_End.png",
+            "weapon_name": "Elegy for the End"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/deepwood_memories.png"
+            ],
+            "artifacts_name": [
+                "Deepwood Memories"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ER / ATK% / EM",
+            "goblet": "Goblet: Dendro DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Collei",
+            "Support",
+            "Dendro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Cyno",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png",
+        "char_element_text": "Electro",
+        "char_role": "Main DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Staff_of_the_Scarlet_Sands.png",
+            "weapon_name": "Staff of the Scarlet Sands"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png"
+            ],
+            "artifacts_name": [
+                "Gladiator's Finale"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: EM / ATK%",
+            "goblet": "Goblet: Electro DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Cyno",
+            "Main DPS",
+            "Electro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Dehya",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Dehya.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png",
+        "char_element_text": "Pyro",
+        "char_role": "Support",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Beacon_of_the_Reed_Sea.png",
+            "weapon_name": "Beacon of the Reed Sea"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png"
+            ],
+            "artifacts_name": [
+                "Tenacity of the Millelith"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: HP%",
+            "goblet": "Goblet: HP%",
+            "circlet": "Circlet: HP%"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Dehya",
+            "Support",
+            "Pyro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Diluc",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Diluc.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png",
+        "char_element_text": "Pyro",
+        "char_role": "Main DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Redhorn_Stonethresher.png",
+            "weapon_name": "Redhorn Stonethresher"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png"
+            ],
+            "artifacts_name": [
+                "Crimson Witch of Flames"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ATK% / EM",
+            "goblet": "Goblet: Pyro DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Diluc",
+            "Main DPS",
+            "Pyro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Diona",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png",
+        "char_element_text": "Cryo",
+        "char_role": "Support",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Warbow.png",
+            "weapon_name": "Favonius Warbow"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+            ],
+            "artifacts_name": [
+                "Noblesse Oblige"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ER / HP%",
+            "goblet": "Goblet: HP%",
+            "circlet": "Circlet: HP% / Healing"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Diona",
+            "Support",
+            "Cryo"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Dori",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Dori.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png",
+        "char_element_text": "Electro",
+        "char_role": "Support",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Greatsword.png",
+            "weapon_name": "Favonius Greatsword"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+            ],
+            "artifacts_name": [
+                "Noblesse Oblige"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ER / HP% / EM",
+            "goblet": "Goblet: HP% / EM",
+            "circlet": "Circlet: Healing / HP% / EM"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Dori",
+            "Support",
+            "Electro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Eula",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Eula.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png",
+        "char_element_text": "Cryo",
+        "char_role": "Main DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Song_of_Broken_Pines.png",
+            "weapon_name": "Song of Broken Pines"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/pale_flame.png"
+            ],
+            "artifacts_name": [
+                "Pale Flame"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ATK%",
+            "goblet": "Goblet: Physical DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Eula",
+            "Main DPS",
+            "Cryo"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Faruzan",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png",
+        "char_element_text": "Anemo",
+        "char_role": "Support",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Warbow.png",
+            "weapon_name": "Favonius Warbow"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/viridescent_venerer.png"
+            ],
+            "artifacts_name": [
+                "Viridescent Venerer"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ER",
+            "goblet": "Goblet: Anemo DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Faruzan",
+            "Support",
+            "Anemo"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Fischl",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Fischl.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png",
+        "char_element_text": "Electro",
+        "char_role": "Sub DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Aqua_Simulacra.png",
+            "weapon_name": "Aqua Simulacra"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png",
+                "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png"
+            ],
+            "artifacts_name": [
+                "Shimenawa's Reminiscence",
+                "Thundering Fury"
+            ],
+            "artifacts_count": [
+                "2",
+                "2"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ATK% / EM",
+            "goblet": "Goblet: Electro DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Fischl",
+            "Sub DPS",
+            "Electro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Ganyu",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Ganyu.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png",
+        "char_element_text": "Cryo",
+        "char_role": "Main DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Hunter's_Path.png",
+            "weapon_name": "Hunter's Path"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png"
+            ],
+            "artifacts_name": [
+                "Shimenawa's Reminiscence"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ATK%",
+            "goblet": "Goblet: Cryo DMG",
+            "circlet": "Circlet: CRIT DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Ganyu",
+            "Main DPS",
+            "Cryo"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Gorou",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Gorou.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png",
+        "char_element_text": "Geo",
+        "char_role": "Support",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Warbow.png",
+            "weapon_name": "Favonius Warbow"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/the_exile.png"
+            ],
+            "artifacts_name": [
+                "The Exile"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ER",
+            "goblet": "Goblet: Geo DMG",
+            "circlet": "Circlet: CRIT Rate"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Gorou",
+            "Support",
+            "Geo"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Heizou",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Heizou.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png",
+        "char_element_text": "Anemo",
+        "char_role": "Sub DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Atlas.png",
+            "weapon_name": "Skyward Atlas"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/viridescent_venerer.png"
+            ],
+            "artifacts_name": [
+                "Viridescent Venerer"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: EM",
+            "goblet": "Goblet: EM",
+            "circlet": "Circlet: EM"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Heizou",
+            "Sub DPS",
+            "Anemo"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Hu Tao",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Hu Tao.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png",
+        "char_element_text": "Pyro",
+        "char_role": "Main DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Staff_of_Homa.png",
+            "weapon_name": "Staff of Homa"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png"
+            ],
+            "artifacts_name": [
+                "Crimson Witch of Flames"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: HP% / EM",
+            "goblet": "Goblet: Pyro DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Hu Tao",
+            "Main DPS",
+            "Pyro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Itto",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Itto.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png",
+        "char_element_text": "Geo",
+        "char_role": "Main DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Redhorn_Stonethresher.png",
+            "weapon_name": "Redhorn Stonethresher"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/husk_of_opulent_dreams.png"
+            ],
+            "artifacts_name": [
+                "Husk of Opulent Dreams"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: DEF%",
+            "goblet": "Goblet: Geo DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Itto",
+            "Main DPS",
+            "Geo"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Jean",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Jean.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png",
+        "char_element_text": "Anemo",
+        "char_role": "Support",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Cutter.png",
+            "weapon_name": "Primordial Jade Cutter"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/viridescent_venerer.png"
+            ],
+            "artifacts_name": [
+                "Viridescent Venerer"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ATK% / ER",
+            "goblet": "Goblet: Anemo DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Jean",
+            "Support",
+            "Anemo"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Kaeya",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Kaeya.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png",
+        "char_element_text": "Cryo",
+        "char_role": "Sub DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Cutter.png",
+            "weapon_name": "Primordial Jade Cutter"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+            ],
+            "artifacts_name": [
+                "Emblem of Severed Fate"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ER / ATK%",
+            "goblet": "Goblet: Cryo DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Kaeya",
+            "Sub DPS",
+            "Cryo"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Kaveh",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Kaveh.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png",
+        "char_element_text": "Dendro",
+        "char_role": "Main DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Greatsword.png",
+            "weapon_name": "Favonius Greatsword"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/deepwood_memories.png"
+            ],
+            "artifacts_name": [
+                "Deepwood Memories"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: EM",
+            "goblet": "Goblet: EM",
+            "circlet": "Circlet: EM"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Kaveh",
+            "Main DPS",
+            "Dendro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Kazuha",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Kazuha.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png",
+        "char_element_text": "Anemo",
+        "char_role": "Support",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Freedom-Sworn.png",
+            "weapon_name": "Freedom-Sworn"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/viridescent_venerer.png"
+            ],
+            "artifacts_name": [
+                "Viridescent Venerer"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: EM",
+            "goblet": "Goblet: EM",
+            "circlet": "Circlet: EM"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Kazuha",
+            "Support",
+            "Anemo"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Keqing",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Keqing.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png",
+        "char_element_text": "Electro",
+        "char_role": "Main DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Mistsplitter_Reforged.png",
+            "weapon_name": "Mistsplitter Reforged"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png"
+            ],
+            "artifacts_name": [
+                "Thundering Fury"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ATK%",
+            "goblet": "Goblet: Electro DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Keqing",
+            "Main DPS",
+            "Electro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Klee",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png",
+        "char_element_text": "Pyro",
+        "char_role": "Main DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/The_Widsith.png",
+            "weapon_name": "The Widsith R5"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png",
+                "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png"
+            ],
+            "artifacts_name": [
+                "Crimson Witch of Flames",
+                "Shimenawa's Reminiscence"
+            ],
+            "artifacts_count": [
+                "2",
+                "2"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ATK%",
+            "goblet": "Goblet: Pyro DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Klee",
+            "Main DPS",
+            "Pyro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Kokomi",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Kokomi.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png",
+        "char_element_text": "Hydro",
+        "char_role": "Support",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Thrilling_Tales_of_Dragon_Slayers.png",
+            "weapon_name": "Thrilling Tales of Dragon Slayers"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png"
+            ],
+            "artifacts_name": [
+                "Tenacity of the Millelith"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: HP% / ER",
+            "goblet": "Goblet: HP%",
+            "circlet": "Circlet: HP% / Healing"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Kokomi",
+            "Support",
+            "Hydro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Kuki Shinobu",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Kuki Shinobu.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png",
+        "char_element_text": "Electro",
+        "char_role": "Support",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Freedom-Sworn.png",
+            "weapon_name": "Freedom-Sworn"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/flower_of_paradise_lost.png"
+            ],
+            "artifacts_name": [
+                "Flower of Paradise Lost"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: EM",
+            "goblet": "Goblet: EM",
+            "circlet": "Circlet: EM"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Kuki Shinobu",
+            "Support",
+            "Electro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Layla",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Layla.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png",
+        "char_element_text": "Cryo",
+        "char_role": "Support",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Key_of_Khaj-Nisut.png",
+            "weapon_name": "Key of Khaj-Nisut"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png"
+            ],
+            "artifacts_name": [
+                "Tenacity of the Millelith"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: HP%",
+            "goblet": "Goblet: HP%",
+            "circlet": "Circlet: HP%"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Layla",
+            "Support",
+            "Cryo"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Lisa",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Lisa.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png",
+        "char_element_text": "Electro",
+        "char_role": "Support",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Kagura's_Verity.png",
+            "weapon_name": "Kagura's Verity"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png"
+            ],
+            "artifacts_name": [
+                "Thundering Fury"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: Elemental Master / ATK%",
+            "goblet": "Goblet: Electro DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Lisa",
+            "Support",
+            "Electro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Mika",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Mika.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png",
+        "char_element_text": "Cryo",
+        "char_role": "Support",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Lance.png",
+            "weapon_name": "Favonius Lance"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+            ],
+            "artifacts_name": [
+                "Noblesse Oblige"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ER / HP%",
+            "goblet": "Goblet: HP%",
+            "circlet": "Circlet: Healing / HP%"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Mika",
+            "Support",
+            "Cryo"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Mona",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Mona.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png",
+        "char_element_text": "Hydro",
+        "char_role": "Support",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Thrilling_Tales_of_Dragon_Slayers.png",
+            "weapon_name": "Thrilling Tales of Dragon Slayers"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+            ],
+            "artifacts_name": [
+                "Noblesse Oblige"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ER / ATK%",
+            "goblet": "Goblet: Hydro DMG / ATK%",
+            "circlet": "Circlet: CRIT Rate"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Mona",
+            "Support",
+            "Hydro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Nahida",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Nahida.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png",
+        "char_element_text": "Dendro",
+        "char_role": "Support",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/A_Thousand_Floating_Dreams.png",
+            "weapon_name": "A Thousand Floating Dreams"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/deepwood_memories.png"
+            ],
+            "artifacts_name": [
+                "Deepwood Memories"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: EM",
+            "goblet": "Goblet: EM",
+            "circlet": "Circlet: EM"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Nahida",
+            "Support",
+            "Dendro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Nilou",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Nilou.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png",
+        "char_element_text": "Hydro",
+        "char_role": "Support",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Key_of_Khaj-Nisut.png",
+            "weapon_name": "Key of Khaj-Nisut"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/heart_of_depth.png",
+                "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png"
+            ],
+            "artifacts_name": [
+                "Heart of Depth",
+                "Tenacity of the Millelith"
+            ],
+            "artifacts_count": [
+                "2",
+                "2"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: HP% / ER",
+            "goblet": "Goblet: HP%",
+            "circlet": "Circlet: HP%"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Nilou",
+            "Support",
+            "Hydro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Ningguang",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Ningguang.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png",
+        "char_element_text": "Geo",
+        "char_role": "Main DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Lost_Prayer_to_the_Sacred_Winds.png",
+            "weapon_name": "Lost Prayer to the Sacred Winds"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/archaic_petra.png",
+                "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+            ],
+            "artifacts_name": [
+                "Archaic Petra",
+                "Emblem of Severed Fate"
+            ],
+            "artifacts_count": [
+                "2",
+                "2"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ATK%",
+            "goblet": "Goblet: Geo DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Ningguang",
+            "Main DPS",
+            "Geo"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Noelle",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Noelle.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png",
+        "char_element_text": "Geo",
+        "char_role": "Main DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Redhorn_Stonethresher.png",
+            "weapon_name": "Redhorn Stonethresher"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/husk_of_opulent_dreams.png"
+            ],
+            "artifacts_name": [
+                "Husk of Opulent Dreams"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: DEF% / ATK%",
+            "goblet": "Goblet: Geo DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Noelle",
+            "Main DPS",
+            "Geo"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Qiqi",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Qiqi.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png",
+        "char_element_text": "Cryo",
+        "char_role": "Support",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Sword.png",
+            "weapon_name": "Sacrificial Sword"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png"
+            ],
+            "artifacts_name": [
+                "Tenacity of the Millelith"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ATK% / ER",
+            "goblet": "Goblet: ATK%",
+            "circlet": "Circlet: ATK% / Healing"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Qiqi",
+            "Support",
+            "Cryo"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Raiden",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Raiden.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png",
+        "char_element_text": "Electro",
+        "char_role": "Main DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Engulfing_Lightning.png",
+            "weapon_name": "Engulfing Lightning"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+            ],
+            "artifacts_name": [
+                "Emblem of Severed Fate"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ER / ATK%",
+            "goblet": "Goblet: Electro DMG / ATK%",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Raiden",
+            "Main DPS",
+            "Electro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Razor",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Razor.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png",
+        "char_element_text": "Electro",
+        "char_role": "Main DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Wolf's_Gravestone.png",
+            "weapon_name": "Wolf's Gravestone"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/pale_flame.png"
+            ],
+            "artifacts_name": [
+                "Pale Flame"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ATK%",
+            "goblet": "Goblet: Physical DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Razor",
+            "Main DPS",
+            "Electro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Rosaria",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Rosaria.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png",
+        "char_element_text": "Cryo",
+        "char_role": "Support",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Staff_of_Homa.png",
+            "weapon_name": "Staff of Homa"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/blizzard_strayer.png"
+            ],
+            "artifacts_name": [
+                "Blizzard Strayer"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ATK%",
+            "goblet": "Goblet: Cryo DMG",
+            "circlet": "Circlet: CRIT DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Rosaria",
+            "Support",
+            "Cryo"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Sara",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Sara.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png",
+        "char_element_text": "Electro",
+        "char_role": "Support",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Harp.png",
+            "weapon_name": "Skyward Harp"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+            ],
+            "artifacts_name": [
+                "Emblem of Severed Fate"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ER / ATK%",
+            "goblet": "Goblet: Electro DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Sara",
+            "Support",
+            "Electro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Sayu",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Sayu.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png",
+        "char_element_text": "Anemo",
+        "char_role": "Support",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Wolf's_Gravestone.png",
+            "weapon_name": "Wolf's Gravestone"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/viridescent_venerer.png"
+            ],
+            "artifacts_name": [
+                "Viridescent Venerer"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ER / EM",
+            "goblet": "Goblet: ATK% / EM",
+            "circlet": "Circlet: Healing / EM"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Sayu",
+            "Support",
+            "Anemo"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Shenhe",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Shenhe.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png",
+        "char_element_text": "Cryo",
+        "char_role": "Support",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Calamity_Queller.png",
+            "weapon_name": "Calamity Queller"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+            ],
+            "artifacts_name": [
+                "Noblesse Oblige"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ATK% / ER",
+            "goblet": "Goblet: ATK%",
+            "circlet": "Circlet: ATK%"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Shenhe",
+            "Support",
+            "Cryo"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Sucrose",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png",
+        "char_element_text": "Anemo",
+        "char_role": "Support",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/A_Thousand_Floating_Dreams.png",
+            "weapon_name": "A Thousand Floating Dreams"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/viridescent_venerer.png"
+            ],
+            "artifacts_name": [
+                "Viridescent Venerer"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: EM",
+            "goblet": "Goblet: EM",
+            "circlet": "Circlet: EM"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Sucrose",
+            "Support",
+            "Anemo"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Thoma",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Thoma.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png",
+        "char_element_text": "Pyro",
+        "char_role": "Support",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Lance.png",
+            "weapon_name": "Favonius Lance"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+            ],
+            "artifacts_name": [
+                "Noblesse Oblige"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ER / HP%",
+            "goblet": "Goblet: HP%",
+            "circlet": "Circlet: HP%"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Thoma",
+            "Support",
+            "Pyro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Tighnari",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png",
+        "char_element_text": "Dendro",
+        "char_role": "Sub DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Hunter's_Path.png",
+            "weapon_name": "Hunter's Path"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png"
+            ],
+            "artifacts_name": [
+                "Wanderer's Troupe"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ATK% / EM",
+            "goblet": "Goblet: Dendro DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Tighnari",
+            "Sub DPS",
+            "Dendro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Traveler (Anemo)",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Anemo).png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png",
+        "char_element_text": "Anemo",
+        "char_role": "Sub DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Freedom-Sworn.png",
+            "weapon_name": "Freedom-Sworn"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/viridescent_venerer.png"
+            ],
+            "artifacts_name": [
+                "Viridescent Venerer"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: EM / ATK% / ER",
+            "goblet": "Goblet: EM / Anemo DMG",
+            "circlet": "Circlet: EM / CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Traveler (Anemo)",
+            "Sub DPS",
+            "Anemo"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Traveler (Dendro)",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Dendro).png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png",
+        "char_element_text": "Dendro",
+        "char_role": "Support",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Freedom-Sworn.png",
+            "weapon_name": "Freedom-Sworn"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/deepwood_memories.png"
+            ],
+            "artifacts_name": [
+                "Deepwood Memories"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ER / ATK%",
+            "goblet": "Goblet: Dendro DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Traveler (Dendro)",
+            "Support",
+            "Dendro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Traveler (Electro)",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Electro).png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png",
+        "char_element_text": "Electro",
+        "char_role": "Support",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Sword.png",
+            "weapon_name": "Favonius Sword"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+            ],
+            "artifacts_name": [
+                "Noblesse Oblige"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ER",
+            "goblet": "Goblet: Electro DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Traveler (Electro)",
+            "Support",
+            "Electro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Traveler (Geo)",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler (Geo).png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png",
+        "char_element_text": "Geo",
+        "char_role": "Sub DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Cutter.png",
+            "weapon_name": "Primordial Jade Cutter"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/archaic_petra.png",
+                "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+            ],
+            "artifacts_name": [
+                "Archaic Petra",
+                "Noblesse Oblige"
+            ],
+            "artifacts_count": [
+                "2",
+                "2"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ATK%",
+            "goblet": "Goblet: Geo DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Traveler (Geo)",
+            "Sub DPS",
+            "Geo"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Venti",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Venti.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png",
+        "char_element_text": "Anemo",
+        "char_role": "Sub DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Elegy_for_the_End.png",
+            "weapon_name": "Elegy for the End"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/viridescent_venerer.png"
+            ],
+            "artifacts_name": [
+                "Viridescent Venerer"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: EM",
+            "goblet": "Goblet: EM",
+            "circlet": "Circlet: EM"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Venti",
+            "Sub DPS",
+            "Anemo"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Wanderer",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Wanderer.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png",
+        "char_element_text": "Anemo",
+        "char_role": "Main DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Tulaytullah's_Remembrance.png",
+            "weapon_name": "Tulaytullah's Remembrance"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/desert_pavilion_chronicle.png"
+            ],
+            "artifacts_name": [
+                "Desert Pavilion Chronicle"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ATK%",
+            "goblet": "Goblet: Anemo DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Wanderer",
+            "Main DPS",
+            "Anemo"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Xiangling",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Xiangling.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png",
+        "char_element_text": "Pyro",
+        "char_role": "Sub DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Staff_of_the_Scarlet_Sands.png",
+            "weapon_name": "Staff of the Scarlet Sands"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+            ],
+            "artifacts_name": [
+                "Emblem of Severed Fate"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ER / ATK%",
+            "goblet": "Goblet: Pyro DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Xiangling",
+            "Sub DPS",
+            "Pyro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Xiao",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Xiao.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png",
+        "char_element_text": "Anemo",
+        "char_role": "Main DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Winged-Spear.png",
+            "weapon_name": "Primordial Jade Winged-Spear"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/vermillion_hereafter.png"
+            ],
+            "artifacts_name": [
+                "Vermillion Hereafter"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ATK%",
+            "goblet": "Goblet: Anemo DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Xiao",
+            "Main DPS",
+            "Anemo"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Xingqiu",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Xingqiu.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png",
+        "char_element_text": "Hydro",
+        "char_role": "Sub DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Cutter.png",
+            "weapon_name": "Primordial Jade Cutter"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+            ],
+            "artifacts_name": [
+                "Emblem of Severed Fate"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ER",
+            "goblet": "Goblet: Hydro DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Xingqiu",
+            "Sub DPS",
+            "Hydro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Xinyan",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Xinyan.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png",
+        "char_element_text": "Pyro",
+        "char_role": "Main DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Redhorn_Stonethresher.png",
+            "weapon_name": "Redhorn Stonethresher"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/bloodstained_chivalry.png",
+                "https://rerollcdn.com/GENSHIN/Gear/pale_flame.png"
+            ],
+            "artifacts_name": [
+                "Bloodstained Chivalry",
+                "Pale Flame"
+            ],
+            "artifacts_count": [
+                "2",
+                "2"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ATK% / ER",
+            "goblet": "Goblet: Physical DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Xinyan",
+            "Main DPS",
+            "Pyro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Yae Miko",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Yae Miko.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png",
+        "char_element_text": "Electro",
+        "char_role": "Sub DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Kagura's_Verity.png",
+            "weapon_name": "Kagura's Verity"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+            ],
+            "artifacts_name": [
+                "Emblem of Severed Fate"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ER / ATK%",
+            "goblet": "Goblet: Electro DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Yae Miko",
+            "Sub DPS",
+            "Electro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Yanfei",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Yanfei.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png",
+        "char_element_text": "Pyro",
+        "char_role": "Main DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Atlas.png",
+            "weapon_name": "Skyward Atlas"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png"
+            ],
+            "artifacts_name": [
+                "Crimson Witch of Flames"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ATK%",
+            "goblet": "Goblet: Pyro DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Yanfei",
+            "Main DPS",
+            "Pyro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Yaoyao",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Yaoyao.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png",
+        "char_element_text": "Dendro",
+        "char_role": "Support",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Lance.png",
+            "weapon_name": "Favonius Lance"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/deepwood_memories.png"
+            ],
+            "artifacts_name": [
+                "Deepwood Memories"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: HP% / ER",
+            "goblet": "Goblet: HP%",
+            "circlet": "Circlet: Healing"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Yaoyao",
+            "Support",
+            "Dendro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Yelan",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Yelan.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png",
+        "char_element_text": "Hydro",
+        "char_role": "Sub DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Elegy_for_the_End.png",
+            "weapon_name": "Elegy for the End"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+            ],
+            "artifacts_name": [
+                "Emblem of Severed Fate"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ER",
+            "goblet": "Goblet: Hydro DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Yelan",
+            "Sub DPS",
+            "Hydro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Yoimiya",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Yoimiya.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png",
+        "char_element_text": "Pyro",
+        "char_role": "Main DPS",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Thundering_Pulse.png",
+            "weapon_name": "Thundering Pulse"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png"
+            ],
+            "artifacts_name": [
+                "Shimenawa's Reminiscence"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: ATK% / EM",
+            "goblet": "Goblet: Pyro DMG",
+            "circlet": "Circlet: CRIT Rate / DMG"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Yoimiya",
+            "Main DPS",
+            "Pyro"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Yun Jin",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Yun Jin.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_4.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png",
+        "char_element_text": "Geo",
+        "char_role": "Support",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Lance.png",
+            "weapon_name": "Favonius Lance"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/husk_of_opulent_dreams.png"
+            ],
+            "artifacts_name": [
+                "Husk of Opulent Dreams"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: DEF% / ER",
+            "goblet": "Goblet: DEF%",
+            "circlet": "Circlet: DEF%"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Yun Jin",
+            "Support",
+            "Geo"
+        ]
+    },
+    {
+        "id": "characters",
+        "name": "Zhongli",
+        "char_pic": "https://rerollcdn.com/GENSHIN/Characters/1/Zhongli.png",
+        "rarity": "https://rerollcdn.com/GENSHIN/UI/rarity_5.png",
+        "char_element_icon": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png",
+        "char_element_text": "Geo",
+        "char_role": "Support",
+        "char_weapon": {
+            "weapon_pic": "https://rerollcdn.com/GENSHIN/Weapons/Black_Tassel.png",
+            "weapon_name": "Black Tassel"
+        },
+        "char_artifacts": {
+            "artifacts_pic": [
+                "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png"
+            ],
+            "artifacts_name": [
+                "Tenacity of the Millelith"
+            ],
+            "artifacts_count": [
+                "4"
+            ]
+        },
+        "char_stats": {
+            "sands": "Sands: HP%",
+            "goblet": "Goblet: HP%",
+            "circlet": "Circlet: HP%"
+        },
+        "tags": [
+            "character",
+            "characters",
+            "character's build",
+            "Zhongli",
+            "Support",
+            "Geo"
+        ]
+    }
+]
